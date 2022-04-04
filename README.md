@@ -10,7 +10,7 @@ In order to provide a visually informative analysis, reporting through Tableau i
 
 [link to dashboard](https://public.tableau.com/app/profile/rick.sadowski/viz/CitiBikeChallenge_16490058049370/CitiBikeChallenge?publish=yes "Link to Story")
 
-#### Manhattan Story Page"
+#### Manhattan Story Page
 ![Manhattan](https://github.com/PGrickswim/bikesharing/blob/main/Resources/Manhattan.png)
 
 ## Summary
